@@ -137,7 +137,7 @@ public class Main {
                             for (int a = 1; a <= 10; a++) {
                                 System.out.println("2 * " + a + " = " + a * 2);
 
-                                System.out.println("======================================");
+                                System.out.println("========================================");
                             }
                         }
 
